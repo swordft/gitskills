@@ -1,2 +1,2 @@
 # gitskills
-add line in dev branch
+git is a free software
